@@ -1,0 +1,1 @@
+The App.js file contains code for a Formik form implemented through React js which inculdes input fields for "Email" and "Password" as well as a "Submit" button.  Each field is validated the insure that the information is appropriate for submission.# formik-form
